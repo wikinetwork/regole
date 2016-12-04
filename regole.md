@@ -62,17 +62,21 @@ Lo scopo di questi gruppi è creare una discussione tra gli utenti dei progetti 
 🔸 Vietato lo spam
 
 💈💈**SPONSORIZZAZIONE**💈💈
+
 Non sono ammessi post a carattere pubblicitario per preservarla dallo spam.
 
 Sono, invece, accette le richieste di sponsorizzazione che dovranno essere in privato dopo richiesta di contatto sul gruppo.
 
 ⚪️⚪️ **PULIZIA CHAT** ⚪️⚪️
+
 Gli admin puliranno la chat silenziosamente da eventuali OT pesanti, flame e messaggi contro il regolamento, al fine di garantire la miglior qualità possibile per la community, nel rispetto di tutti gli utenti.
 
 🔴🔴 **BAN e SICUREZZA** 🔴🔴
+
 Gli utenti che mostreranno atteggiamenti scorretti e ripetutamente contro il regolamento verranno bannati dai gruppi del Network. 
 
 🔰🔰 **ADMIN** 🔰🔰
+
 Per informazioni, richieste o proposte puoi contattare gli admin del gruppo usando il comando @admin in uno qualsiasi dei gruppi del network
 
 🔸 Per segnalare la presenza di troll e spammer, nonché di utenti del gruppo che mostrano comportamenti scorretti verso di voi in chat privata, contattate gli admin (come indicato sopra).
