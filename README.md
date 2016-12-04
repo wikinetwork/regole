@@ -1,4 +1,6 @@
 # Regolamento Ufficiale Wikinetwork
+**Se vuoi accedere al regolamento, devi aprire il file chiamato Regole.md** [Link Diretto](regole.md)
+
 Regolamento ufficiale dei gruppi del Network Wikinetwork ([Link Descrittivo](https://wikigram.it/wikinetwork)-[Canale Telegram Ufficiale](https://telegram.me/wikinetwork))
 
 Il presente regolamento è preso da Open Telegram Italia ed è stato modificato con repository presente su [thegasta/OpenTelegramItalia](https://github.com/thegasta/OpenTelegramItalia)
