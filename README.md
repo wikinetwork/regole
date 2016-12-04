@@ -1,9 +1,7 @@
 # Regolamento Ufficiale Wikinetwork
-Regolamento ufficiale dei gruppi del Network Wikinetwork ([Link Descrittivo](wikigram.it/wikinetwork)-[Canale Telegram Ufficiale](telegram.me/wikinetwork))
+Regolamento ufficiale dei gruppi del Network Wikinetwork ([Link Descrittivo](https://wikigram.it/wikinetwork)-[Canale Telegram Ufficiale](https://telegram.me/wikinetwork))
 Il presente regolamento è preso da Open Telegram Italia ed è stato modificato con repository presente su [thegasta/OpenTelegramItalia](thegasta/OpenTelegramItalia)
-Copyright Disclaimer
-template by telegram.me/opentelegramitalia
+Copyright Disclaimer da inserire (vedi Licenza)
+Template by https://telegram.me/opentelegramitalia
+Copyright (ANNO) Wikinetwork https://telegram.me/wikinetwork -https://github.com/wikinetwork/regole 
 
-Da inserire insieme a quello: 
-"Copyright 2016- Wikinetwork: telegram.me/wikinetwork oppure github.com/wikinetwork/regole"
-Contatto Github @ferdi2005
