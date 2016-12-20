@@ -5,7 +5,7 @@ Regolamento ufficiale dei gruppi del Network Wikinetwork ([Link Descrittivo](htt
 
 Il presente regolamento è preso da Open Telegram Italia ed è stato modificato con repository presente su [thegasta/OpenTelegramItalia](https://github.com/thegasta/OpenTelegramItalia)
 
-**Testo da inserire per la distribuzione** (vedi [Licenza](LICENSE.MD))
+**Testo da inserire per la distribuzione** (vedi [Licenza](LICENSE))
 
 Template by https://telegram.me/opentelegramitalia
 
