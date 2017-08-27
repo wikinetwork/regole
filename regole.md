@@ -30,9 +30,9 @@ Lo scopo di questi gruppi è creare una discussione tra gli utenti dei progetti 
 
 🔶🔶 **REGOLE** 🔶🔶
 
-🔸 1) USA [IL BUON SENSO](it.wikipedia.org/wiki/Wikipedia:Buon senso) e non fare [il finto tonto]       (it.wikipedia.org/wiki/Wikipedia:Non fare il finto tonto)
+🔸 1) USA [IL BUON SENSO](http://it.wikipedia.org/wiki/Wikipedia:Buon_senso) e non fare[il finto tonto](it.wikipedia.org/wiki/Wikipedia:Non fare il finto tonto)
 
-🔸 2) Non avere [paura di fare domande](it.wikipedia.org/wiki/WP:BE BOLD)
+🔸 2) Non avere [paura di fare domande](http://it.wikipedia.org/wiki/WP:BE_BOLD)
 
 🔸 3) È caldamente consigliato l'utilizzo di un @username, username offensivi saranno giudicati come troll (vedi punto 10)
 
@@ -52,7 +52,7 @@ Lo scopo di questi gruppi è creare una discussione tra gli utenti dei progetti 
 
 🔸 11) Vietato lo spam (vedi punto *Sponsorizzazione*)
 
-🔸 12) Vietati gli [attacchi personali](it.wikipedia.org/wiki/WP:ATTACCHI PERSONALI) 
+🔸 12) Vietati gli [attacchi personali](http://it.wikipedia.org/wiki/WP:ATTACCHI_PERSONALI) 
 
 💈💈**SPONSORIZZAZIONE**💈💈
 
@@ -62,7 +62,7 @@ Sono, invece, accette le richieste di sponsorizzazione che dovranno essere fatte
 
 ⚪️⚪️ **PULIZIA CHAT** ⚪️⚪️
 
-Gli admin puliranno la chat a loro discrezione rimuovendo i messaggi contro il regolamento tra cui OT pesanti, messaggi di SPAM ed [attacchi personali](it.wikipedia.org/wiki/WP:ATTACCHI PERSONALI)
+Gli admin puliranno la chat a loro discrezione rimuovendo i messaggi contro il regolamento tra cui OT pesanti, messaggi di SPAM ed [attacchi personali](http://it.wikipedia.org/wiki/WP:ATTACCHI_PERSONALI)
 
 🔴🔴 **BAN e SICUREZZA** 🔴🔴
 Gli utenti che mostreranno atteggiamenti scorretti e ripetutamente contro il regolamento verranno bannati dai gruppi del Network. 
