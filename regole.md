@@ -65,9 +65,11 @@ Sono, invece, accette le richieste di sponsorizzazione che dovranno essere fatte
 Gli admin puliranno la chat a loro discrezione rimuovendo i messaggi contro il regolamento tra cui OT pesanti, messaggi di SPAM ed [attacchi personali](http://it.wikipedia.org/wiki/WP:ATTACCHI_PERSONALI)
 
 🔴🔴 **BAN e SICUREZZA** 🔴🔴
+
 Gli utenti che mostreranno atteggiamenti scorretti e ripetutamente contro il regolamento verranno bannati dai gruppi del Network. 
 
 🔰🔰 **ADMIN** 🔰🔰
+
 Per informazioni, richieste o proposte puoi contattare gli admin del gruppo usando il comando @admin in uno qualsiasi dei gruppi del network oppure puoi usare @wikinetworkbot (scelta consigliata)
 
 🔸 Per segnalare la presenza di troll e spammer, nonché di utenti del gruppo che mostrano comportamenti scorretti verso di voi in chat privata, contattate gli admin (come indicato sopra).
