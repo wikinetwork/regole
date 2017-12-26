@@ -30,7 +30,7 @@ Lo scopo di questi gruppi è creare una discussione tra gli utenti dei progetti 
 
 🔶🔶 **REGOLE** 🔶🔶
 
-🔸 1) USA [IL BUON SENSO](http://it.wikipedia.org/wiki/Wikipedia:Buon_senso) e non fare [il finto tonto](it.wikipedia.org/wiki/Wikipedia:Non fare il finto tonto)
+🔸 1) USA [IL BUON SENSO](http://it.wikipedia.org/wiki/Wikipedia:Buon_senso) e non fare [il finto tonto](http://it.wikipedia.org/wiki/Wikipedia:Non fare il finto tonto)
 
 🔸 2) Non avere [paura di fare domande](http://it.wikipedia.org/wiki/WP:BE_BOLD)
 
