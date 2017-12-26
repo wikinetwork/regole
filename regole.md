@@ -30,7 +30,7 @@ Lo scopo di questi gruppi è creare una discussione tra gli utenti dei progetti 
 
 🔶🔶 **REGOLE** 🔶🔶
 
-🔸 1) USA [IL BUON SENSO](http://it.wikipedia.org/wiki/Wikipedia:Buon_senso) e non fare [il finto tonto](http://it.wikipedia.org/wiki/Wikipedia:Non fare il finto tonto)
+🔸 1) USA [IL BUON SENSO](http://it.wikipedia.org/wiki/Wikipedia:Buon_senso) e non fare [il finto tonto](http://it.wikipedia.org/wiki/Wikipedia:Non_fare_il_finto_tonto)
 
 🔸 2) Non avere [paura di fare domande](http://it.wikipedia.org/wiki/WP:BE_BOLD)
 
@@ -82,4 +82,4 @@ Per informazioni, richieste o proposte puoi contattare gli admin del gruppo usan
 
 💚**NETWORK WIKICENTRICO**💚
 
-In questo network si applicano le regole applicate sulle wiki di [Wikimedia Foundation](wikimedia.org) e sulle wiki esterne aderenti (come [Vikidia](vikidia.org)). Come riferimento vengono usate le regole di [Wikipedia in Lingua Italiana](it.wikipedia.org) perchè più complete ed approfondite.
+In questo network si applicano le regole applicate sulle wiki di [Wikimedia Foundation](http://wikimedia.org) e sulle wiki esterne aderenti (come [Vikidia](http://vikidia.org)). Come riferimento vengono usate le regole di [Wikipedia in Lingua Italiana](http://it.wikipedia.org) perchè più complete ed approfondite.
