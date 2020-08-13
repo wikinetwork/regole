@@ -12,6 +12,7 @@ I gruppi del Network ai quali si applica il presente regolamento sono:
 - @vikidia, gruppo internazionale di Vikidia - L'enciclopedia libera dagli 8 ai 13 anni
 - @itwikidata, gruppo in italiano dedicato a Wikidata
 - https://t.me/joinchat/A2jiAg42izBn-6OVWlJ2Eg gruppo dedicato al progetto calcio di Wikipedia
+
 Ai gruppi sopra elencati va aggiunto il gruppo off-topic, raggiungibile al link [https://t.me/joinchat/BOcAtVZH-6RRc-a4ZRagYg](https://t.me/joinchat/BOcAtVZH-6RRc-a4ZRagYg), al quale non si applica il presente regolamento.
 
 ## Regole
